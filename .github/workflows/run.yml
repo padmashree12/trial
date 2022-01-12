@@ -1,0 +1,19 @@
+name: "Validate links"
+
+on:
+  schedule:
+    - cron:  '30 * * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+    name: 'Validate links'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Validate all links from README.md
+        run: bash main.sh
