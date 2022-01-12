@@ -1,5 +1,5 @@
 l7
-targets https://movieflixer.vercel.app/_next/data/1fMg0tduaSAOxZXDe34No/random.json, https://mongo-text-search-api.herokuapp.com/autocomplete?term=h&limit=1000000, https://mongo-text-search-api.herokuapp.com/autocomplete?term=a&limit=1000000, https://mongo-text-search-api.herokuapp.com/autocomplete?term=b&limit=1000000, https://mongo-text-search-api.herokuapp.com/autocomplete?term=c&limit=1000000, https://movieflixer.vercel.app/_next/data/1fMg0tduaSAOxZXDe34No/details/573a139bf29313caabcf3db2.json?id=573a139bf29313caabcf3db2
+targets https://movieflixer.vercel.app/_next/data/1fMg0tduaSAOxZXDe34No/random.json, https://mongo-text-search-api.herokuapp.com/autocomplete?term=h&limit=1000000, https://mongo-text-search-api.herokuapp.com/autocomplete?term=a&limit=1000000, https://mongo-text-search-api.herokuapp.com/autocomplete?term=b&limit=1000000, https://mongo-text-search-api.herokuapp.com/autocomplete?term=c&limit=1000000, https://movieflixer.vercel.app/_next/data/1fMg0tduaSAOxZXDe34No/details/573a139bf29313caabcf3db2.json?id=573a139bf29313caabcf3db2, https://nftw.netlify.app/assets, https://nftw.netlify.app/api/assets?page=2, https://nftw.netlify.app/api/assets?page=3, https://nftw.netlify.app/api/assets?page=4, https://nftw.netlify.app/api/assets?page=5, https://nftw.netlify.app/api/assets/0xf3ec2d6394fc899a5dc1823a205670ebb30939cc__0
 threads 200
 run
 Y
